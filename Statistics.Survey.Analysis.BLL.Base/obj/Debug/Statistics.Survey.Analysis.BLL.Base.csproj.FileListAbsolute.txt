@@ -1,0 +1,5 @@
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.BLL.Base\bin\Debug\Statistics.Survey.Analysis.BLL.Base.dll
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.BLL.Base\bin\Debug\Statistics.Survey.Analysis.BLL.Base.pdb
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.BLL.Base\obj\Debug\Statistics.Survey.Analysis.BLL.Base.csprojResolveAssemblyReference.cache
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.BLL.Base\obj\Debug\Statistics.Survey.Analysis.BLL.Base.dll
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.BLL.Base\obj\Debug\Statistics.Survey.Analysis.BLL.Base.pdb

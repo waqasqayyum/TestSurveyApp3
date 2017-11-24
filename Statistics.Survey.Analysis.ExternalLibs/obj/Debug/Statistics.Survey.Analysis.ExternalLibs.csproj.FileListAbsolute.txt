@@ -1,0 +1,7 @@
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.ExternalLibs\bin\Statistics.Survey.Analysis.ExternalLibs.dll
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.ExternalLibs\bin\Statistics.Survey.Analysis.ExternalLibs.pdb
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.ExternalLibs\bin\log4net.dll
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.ExternalLibs\bin\Microsoft.Web.Infrastructure.dll
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.ExternalLibs\obj\Debug\Statistics.Survey.Analysis.ExternalLibs.csprojResolveAssemblyReference.cache
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.ExternalLibs\obj\Debug\Statistics.Survey.Analysis.ExternalLibs.dll
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.ExternalLibs\obj\Debug\Statistics.Survey.Analysis.ExternalLibs.pdb

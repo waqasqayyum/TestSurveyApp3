@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E3D3B274-AED4-4163-9162-4C41F5625F64}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Statistics.Survey.Analysis.BLL.UserManagement</RootNamespace>
+    <AssemblyName>Statistics.Survey.Analysis.BLL.UserManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserManagementApplication.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Statistics.Survey.Analysis.BLL.Base\Statistics.Survey.Analysis.BLL.Base.csproj">
+      <Project>{43c3f48b-982d-4bb7-a7b1-a7c4e01602bb}</Project>
+      <Name>Statistics.Survey.Analysis.BLL.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Statistics.Survey.Analysis.Domain.Base\Statistics.Survey.Analysis.Domain.Base.csproj">
+      <Project>{a0ef383e-cdcd-48b3-8891-2f32c9f322e4}</Project>
+      <Name>Statistics.Survey.Analysis.Domain.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Statistics.Survey.Analysis.Domain.UserManagment\Statistics.Survey.Analysis.Domain.UserManagment.csproj">
+      <Project>{d6a8d0a4-8a0c-4469-a058-3ba8441f4424}</Project>
+      <Name>Statistics.Survey.Analysis.Domain.UserManagment</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Statistics.Survey.Analysis.Repository.Base\Statistics.Survey.Analysis.Repository.Base.csproj">
+      <Project>{26f0d677-77d6-474c-904c-ab613e880c45}</Project>
+      <Name>Statistics.Survey.Analysis.Repository.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Statistics.Survey.Analysis.Repository.UserManagment\Statistics.Survey.Analysis.Repository.UserManagment.csproj">
+      <Project>{09442bd9-bf83-446d-9d7c-587a66fe3c03}</Project>
+      <Name>Statistics.Survey.Analysis.Repository.UserManagment</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

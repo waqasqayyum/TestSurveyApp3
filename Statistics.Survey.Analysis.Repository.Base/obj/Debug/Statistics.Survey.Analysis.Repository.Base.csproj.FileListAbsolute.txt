@@ -1,0 +1,11 @@
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.Repository.Base\obj\Debug\Statistics.Survey.Analysis.Repository.Base.csprojResolveAssemblyReference.cache
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.Repository.Base\bin\Statistics.Survey.Analysis.Repository.Base.dll.config
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.Repository.Base\bin\Statistics.Survey.Analysis.Repository.Base.dll
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.Repository.Base\bin\Statistics.Survey.Analysis.Repository.Base.pdb
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.Repository.Base\bin\Statistics.Survey.Analysis.Domain.Base.dll
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.Repository.Base\bin\Statistics.Survey.Analysis.ExternalLibs.dll
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.Repository.Base\bin\log4net.dll
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.Repository.Base\bin\Statistics.Survey.Analysis.Domain.Base.pdb
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.Repository.Base\bin\Statistics.Survey.Analysis.ExternalLibs.pdb
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.Repository.Base\obj\Debug\Statistics.Survey.Analysis.Repository.Base.dll
+D:\My Own\Projects\Statistics.Survey\Statistics.Survey.Analysis\Statistics.Survey.Analysis.Repository.Base\obj\Debug\Statistics.Survey.Analysis.Repository.Base.pdb
